@@ -2,5 +2,5 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
-main.bin 
-Tablica_Mendelejewa.bin
+main
+Tablica_Mendelejewa
