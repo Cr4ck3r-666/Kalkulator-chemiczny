@@ -1,18 +1,18 @@
 #include <iostream>
 #include <string>
-#include <fstream>
+//#include <fstream>
 
-#include </home/mateusz/Pulpit/Testowy/Reakcje chemiczne/Tablica_Mendelejwa.hpp>
+#include <Tablica_Mendelejwa.hpp>
 
 using namespace std;
 
-string tablica[117] {};
+char string[10];
 
-    tablica[0] = Wodor.symbol
-    tablica[1] = Lit.symbol
-    tablica[2] = Sod.symbol
-    tablica[3] = Potas.symbol
-    tablica[4] = Rubid.symbol
+    table[0] = Wodor.symbol;
+    tablica[1] = Lit.symbol;
+    tablica[2] = Sod.symbol;
+    tablica[3] = Potas.symbol;
+    tablica[4] = Rubid.symbol;
     tablica[5] = Cez.symbol;
     tablica[6] = Frans.symbol;
     tablica[7] = Beryl.symbol;
@@ -125,7 +125,7 @@ string tablica[117] {};
     tablica[114] = Ferm.symbol;
     tablica[115] = Mendelew.symbol;
     tablica[116] = Nobel.symbol;
-    tablica[117] = Lorentz.symbol;    
+    tablica[117] = Lorentz.symbol;
 
 void identyfikacja_zwiazku(string zwiazek)
 {
