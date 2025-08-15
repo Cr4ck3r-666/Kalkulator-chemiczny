@@ -138,10 +138,10 @@ Molibden.symbol="Mo";
 Molibden.nazwa="Molibden";
 Molibden.masa_atomowa=95.94;
 
-Pierwiastek Tungsten;
-Tungsten.symbol="W";
-Tungsten.nazwa="Tungsten";
-Tungsten.masa_atomowa=183.84;
+Pierwiastek Wolfram;
+Wolfram.symbol="W";
+Wolfram.nazwa="TWolfram";
+Wolfram.masa_atomowa=183.84;
 
 Pierwiastek Seaborg;
 Seaborg.symbol="Sg";
