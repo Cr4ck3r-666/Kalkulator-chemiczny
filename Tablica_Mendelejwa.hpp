@@ -140,7 +140,7 @@ Molibden.masa_atomowa=95.94;
 
 Pierwiastek Wolfram;
 Wolfram.symbol="W";
-Wolfram.nazwa="TWolfram";
+Wolfram.nazwa="Wolfram";
 Wolfram.masa_atomowa=183.84;
 
 Pierwiastek Seaborg;
