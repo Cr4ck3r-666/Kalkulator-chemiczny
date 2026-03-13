@@ -5,8 +5,12 @@ Jest to kalkulator do podstawowych obliczeń chemicznych takich jak masa molowa 
 Kompilacja i uruchomienie:
 
 sudo apt-get install gcc
-gcc kalkulator.cpp -o kalkulator.o
+
+```bash
+sudo apt-get install gcc
+g++ kalkulator.cpp -o kalkulator.o
 ./kalkulator.o
+```
 
 # Disclaimer
 
